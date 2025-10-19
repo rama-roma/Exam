@@ -1,7 +1,7 @@
 import React from 'react'
 import '../index.css'
 import img1 from '../assets/IMAGEN.svg'
-import Button from './Button'
+import Button from '../components/button'
 
 export default function Header() {
   return (
