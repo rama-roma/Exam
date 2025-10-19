@@ -1,0 +1,18 @@
+@import "tailwindcss";
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.sea {
+    background-image: url('./assets/back.jpg');
+    height: 800px;
+    background-size: cover;
+    background-position: center;
+}
+
+.sea1{
+    background-image: url('./assets/baccc.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
